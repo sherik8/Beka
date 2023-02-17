@@ -1,0 +1,14 @@
+{
+  "name": "css-selectors-and-responsive",
+  "version": "1.0.0",
+  "description": "Complex Project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w css/ -o css/ --recursive"
+  },
+  "author": "Nizomiddin Mannonov",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
